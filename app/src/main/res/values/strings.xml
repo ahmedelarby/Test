@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="confirm_your_pasword">Confirm Your Pasword</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_any_account">Already Have An Account</string>
+    <string name="signin">SignIn</string>
+    <string name="or">Or</string>
+    <string name="continueo">Continue</string>
+    <string name="user_name">User Name</string>
+    <string name="forget_your_password">Forget Your Password</string>
+    <string name="donthaveanyaccount">Don’t Have Any Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="passwordlogin">Passwordlogin</string>
+    <string name="id_number">Id Number</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
+

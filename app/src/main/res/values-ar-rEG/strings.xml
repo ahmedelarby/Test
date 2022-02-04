@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="first_name">الاسم الاول</string>
+    <string name="last_name">الاسم الاخير</string>
+    <string name="e_mail">البريد الالكتروني</string>
+    <string name="mobile_no">الهاتف المحمول</string>
+    <string name="confirm_your_pasword">اعاده كلمه المرور</string>
+    <string name="password">كلمه المرور</string>
+    <string name="don_t_have_any_account">لديك حساب</string>
+    <string name="signin">تسجيل الدخول </string>
+    <string name="or">او</string>
+    <string name="continueo">استمرار</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="forget_your_password">نسيت كلمه المرور</string>
+    <string name="donthaveanyaccount">ليس لديك حساب</string>
+    <string name="sign_up">تسجيل حساب</string>
+    <string name="passwordlogin">كلمه المرور</string>
+    <string name="id_number">Id Number</string>
+</resources>

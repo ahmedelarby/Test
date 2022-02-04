@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Countries/app/src/main/res/drawable/backgrundsearch.xml" value="0.18194444444444444" />
+        <entry key="..\:/Countries/app/src/main/res/drawable/ic_home.xml" value="0.12083333333333333" />
+        <entry key="..\:/Countries/app/src/main/res/drawable/ic_undraw_empty.xml" value="0.18564814814814815" />
+        <entry key="..\:/Countries/app/src/main/res/layout/activity_main.xml" value="0.1712962962962963" />
+        <entry key="..\:/Countries/app/src/main/res/layout/activity_show_post.xml" value="0.1587962962962963" />
+        <entry key="..\:/Countries/app/src/main/res/layout/fragment_Login.xml" value="0.1712962962962963" />
+        <entry key="..\:/Countries/app/src/main/res/layout/fragment__oll_prodect.xml" value="0.1712962962962963" />
+        <entry key="..\:/Countries/app/src/main/res/layout/fragment_acuont.xml" value="0.1675925925925926" />
+        <entry key="..\:/Countries/app/src/main/res/layout/fragment_bottom_home.xml" value="0.1712962962962963" />
+        <entry key="..\:/Countries/app/src/main/res/layout/fragment_collcation.xml" value="0.1712962962962963" />
+        <entry key="..\:/Countries/app/src/main/res/layout/fragment_frgment_login.xml" value="0.1712962962962963" />
+        <entry key="..\:/Countries/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Countries/app/src/main/res/layout/fragment_notifction.xml" value="0.17" />
+        <entry key="..\:/Countries/app/src/main/res/layout/fragment_pager_one.xml" value="0.10648148148148148" />
+        <entry key="..\:/Countries/app/src/main/res/layout/fragment_profile.xml" value="0.21" />
+        <entry key="..\:/Countries/app/src/main/res/layout/fragment_splash_screen.xml" value="0.1712962962962963" />
+        <entry key="..\:/Countries/app/src/main/res/layout/item_recycler_home.xml" value="0.1712962962962963" />
+        <entry key="..\:/Countries/app/src/main/res/menu/itemnav.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable-v24/seleted.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable-v24/stailysplash.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable-v24/stily_buttonSplash.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable-v24/stily_button_splash.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable-v24/unselected.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/ic_add_shopping_cart_24.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/ic_favorite.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/ic_favorite_black.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/ic_more_one.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/ic_notifications.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/ic_search.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/stilscroll.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/stilscroll_one.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/stilscroll_too.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/stilscrollthree.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/stily_backgrund.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/stily_button.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/stily_edittext.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/drawable/stilysplshto.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/activity_home.xml" value="0.209375" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/activity_splash_screen.xml" value="0.21" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/contint_main.xml" value="0.25" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/fragment__favorite.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/fragment_details.xml" value="0.22" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/fragment_pager_one.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/fragment_pager_three.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/fragment_pager_too.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/fragment_shopping.xml" value="0.209375" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/item_recycler_addcard.xml" value="0.33" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/item_recycler_home1.xml" value="0.25" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/itemrecyclercatogrey.xml" value="0.209375" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/layout/nav_header.xml" value="0.209375" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/menu/item.xml" value="0.209375" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/menu/item_tollbar.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/ahmedelarby/AndroidStudioProjects/Countries/app/src/main/res/menu/itemnav.xml" value="0.209375" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/back_grund_buttom_recycler.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/back_grund_buttom_recycler_green.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/back_grund_buttom_recycler_red.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/back_select.xml" value="0.18564814814814815" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/back_top.xml" value="0.18564814814814815" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/backgrund_splash_screen.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/backgrund_splash_screenbottom.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/backgrundsearch.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/ic_add.xml" value="0.18564814814814815" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/ic_favorite.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/seleted.xml" value="0.1" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/stily_botton_recycler.xml" value="0.380859375" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/stily_botton_recycler_bottom.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/stily_button_splash.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/drawable/unselected.xml" value="0.1" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/activity_main.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/fragment__oll_prodect.xml" value="0.14453125" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/fragment_bottom_home.xml" value="0.2" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/fragment_collcation.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/fragment_home2.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/fragment_pager_one.xml" value="0.15" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/fragment_pager_three.xml" value="0.1" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/fragment_pager_too.xml" value="0.1" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/fragment_slider_home.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/fragment_splash_screen.xml" value="0.1490036231884058" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/fragment_tap_home.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/item_recycler_choose.xml" value="0.12" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/item_recycler_home.xml" value="0.25" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/layout/nav_header.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/menu/item.xml" value="0.1" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/menu/item_tollbar.xml" value="0.25" />
+        <entry key="..\:/Users/ahmedelarby/Desktop/Countries/app/src/main/res/menu/itemnav.xml" value="0.1" />
+        <entry key="..\:/f/Countries/app/src/main/res/drawable/backgrundedittext.xml" value="0.18564814814814815" />
+        <entry key="..\:/f/Countries/app/src/main/res/layout/activity_main.xml" value="0.1712962962962963" />
+        <entry key="..\:/f/Countries/app/src/main/res/layout/activity_show_post.xml" value="0.1712962962962963" />
+        <entry key="..\:/f/Countries/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/f/Countries/app/src/main/res/layout/fragment_login.xml" value="0.15" />
+        <entry key="..\:/f/Countries/app/src/main/res/layout/fragment_profile.xml" value="0.1712962962962963" />
+        <entry key="..\:/f/Countries/app/src/main/res/layout/fragment_sign_up.xml" value="0.25" />
+        <entry key="..\:/f/Countries/app/src/main/res/layout/fragment_splash_screen.xml" value="0.1712962962962963" />
+        <entry key="..\:/f/Countries/app/src/main/res/layout/item.xml" value="0.1712962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
