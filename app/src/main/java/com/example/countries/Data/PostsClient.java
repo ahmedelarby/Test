@@ -32,7 +32,7 @@ public class PostsClient {
         return INSTANCE;
     }
 
-    public Observable<Root> getPosts(){
-        return postInterface.getPosts();
+    public Observable<Root> getPosts(Integer per_page){
+        return postInterface.getPosts(per_page);
     }
 }

@@ -18,6 +18,7 @@ import java.util.ArrayList;
 
 public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
 ArrayList<Photo> list = new ArrayList();
+int pos;
     @NonNull
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
@@ -29,10 +30,12 @@ ArrayList<Photo> list = new ArrayList();
 
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
+
 //       holder.itemBinding.page.setText(list.get(position).getPage());
 //        holder.itemBinding.pages.setText(list.get(position).getPages());
 //        holder.itemBinding.perpage.setText(list.get(position).getPerpage());
 //        holder.itemBinding.total.setText(list.get(position).getTotal());
+
         holder.itemBinding.id.setText(list.get(position).getId());
         holder.itemBinding.owner.setText(list.get(position).getOwner());
         holder.itemBinding.secret.setText(list.get(position).getSecret());
@@ -45,7 +48,7 @@ ArrayList<Photo> list = new ArrayList();
 
 
 
-//        Picasso.get().load("").into(holder.itemBinding.image);
+       // Picasso.get().load("").into(holder.itemBinding.image);
 
     }
 

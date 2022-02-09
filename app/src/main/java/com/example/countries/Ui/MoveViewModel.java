@@ -17,9 +17,9 @@ import io.reactivex.schedulers.Schedulers;
 public class MoveViewModel extends ViewModel {
     MutableLiveData<Root> postsMutableLiveData = new MutableLiveData<>();
 
-    public void getPosts() {
+    public void getPosts(Integer per_page) {
 
-        Observable observable = PostsClient.getINSTANCE().getPosts()
+        Observable observable = PostsClient.getINSTANCE().getPosts(per_page)
                 .subscribeOn(Schedulers.io()).observeOn(AndroidSchedulers.mainThread());
 
 
